@@ -62,3 +62,10 @@ h2{
   opacity: 1; /* Текст стає видимим при наведенні */
 }
 
+a{
+  text-decoration: none;
+  color: white;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
